@@ -1,0 +1,457 @@
+@media (max-width : 1200px) {
+    * {
+        font-size: 15px;
+    }
+
+    .header-with-text-and-big-img {
+        display: block;
+    }
+
+    .photos-div {
+        display: grid;
+        grid-template-columns: auto auto;
+        /* gap: 1rem; */
+    }
+
+
+    .boxes {
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 0rem;
+        /* display: block; */
+        width: 100%;
+    }
+
+    .design-caption {
+        padding: 2rem;
+        width: 84%;
+    }
+
+    .captiure1 {
+        /* width: 100%; */
+        padding-right: 0rem;
+    }
+
+    .text-with-form-div {
+        display: grid;
+        grid-template-columns: auto;
+    }
+
+    .blus-stone-and-detailes {
+        display: block;
+        padding: 10px;
+        align-items: center;
+    }
+
+    .logos-div {
+        padding: 0rem;
+        width: 100%;
+        grid-template-columns: auto;
+        gap: 1rem;
+    }
+
+    .img-Designers {
+        width: 100%
+    }
+
+    .img-Designers2 {
+        width: 100%;
+    }
+
+    .img-Designers-middle {
+        display: block;
+        width: 100%;
+        /* height: 100vh; */
+    }
+
+    .form-div {
+        gap: 1rem;
+        display: grid;
+        grid-template-columns: auto;
+    }
+
+    .social-info {
+        display: block;
+        /* justify-content: space-between; */
+    }
+
+    .footer {
+        width: 100%;
+        padding: 1rem;
+    }
+
+    .big-img {
+        width: 100%
+    }
+
+    .logos-div-1 {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 1rem;
+    }
+
+
+
+    .captiure1 {
+        /* display: non;
+        position: unset; */
+        width: 100%;
+        padding-right: 1rem;
+    }
+
+    /* .design-caption {
+        padding: 2rem;
+        /* width: 84%; */
+    .middle-div {
+        padding: 10px;
+    }
+
+    .men-img {
+        /* display: block; */
+        padding: 10px;
+    }
+
+    .logo-svg {
+        width: 3rem;
+        padding: 1rem 1rem;
+    }
+
+    .logo-svg2 {
+        width: 6rem;
+        padding: 1rem 1rem;
+    }
+
+    .logos-div-1 {
+        display: block;
+    }
+
+    .logos-div-2 {
+        display: block;
+    }
+
+    .padding-blue-stone {
+        margin: 0;
+    }
+
+    .blue-stone {
+        padding: 0;
+    }
+
+    .ifo-with-big-photo {
+        width: 100%;
+        padding: 0rem;
+        margin-bottom: 3rem;
+    }
+
+    .pra-with-namber {
+        display: block;
+    }
+
+    .text-with-form {
+        padding: 2rem;
+    }
+
+    select {
+        padding: 10px 100px 10px 0px;
+    }
+
+    input {
+        width: 100%;
+        padding: 0px;
+        border: none;
+        border-bottom: 1px solid;
+    }
+
+    textarea {
+        padding: 1rem;
+
+    }
+
+    .info-footer-text {
+        padding-right: 0rem;
+    }
+
+    .last-pra-in-footer {
+        display: block;
+    }
+
+    .middle-pra-in-footer {
+        padding-right: 0rem;
+    }
+
+    .div-text-form {
+        padding-right: 0rem;
+    }
+
+    .brand-text {
+        display: block;
+    }
+
+    .icon-padding1 {
+        width: 11rem;
+    }
+
+    .last-text-in-footer {
+        display: block;
+    }
+
+    .social-icon {
+        display: block;
+    }
+
+    .design-div {
+        padding: 10px;
+
+    }
+
+    hr {
+        width: 100%;
+    }
+
+    .design-caption {
+        /* padding: 2rem; */
+        width: 84%;
+    }
+
+    .text-img-1 {
+        width: 93%;
+    }
+    nav {
+        display: block;
+    }
+
+    .div-left-heading-logo {
+        display: none;
+    }
+
+    .continer {
+
+        display: none;
+    }
+
+    .logo-with-text {
+        justify-content: space-between;
+    }
+
+    li {
+        padding: 0;
+        margin: 5px;
+    }
+}
+
+/* //////////////////////// */
+
+@media (max-width : 800px) {
+    * {
+        font-size: 15px;
+    }
+
+    .header-with-text-and-big-img {
+        display: block;
+    }
+
+    .photos-div {
+        display: grid;
+        grid-template-columns: auto;
+        /* gap: 1rem; */
+    }
+
+    .photos-div2 {
+        padding: 0rem;
+        /* padding-left: ; */
+        display: block;
+        width: 100%;
+    }
+
+    .boxes {
+        padding: 0rem;
+        display: block;
+        width: 100%;
+
+    }
+
+    .text-with-form-div {
+        display: grid;
+        grid-template-columns: auto;
+    }
+
+    .blus-stone-and-detailes {
+        display: block;
+        padding: 10px;
+        align-items: center;
+    }
+
+    .logos-div {
+        padding: 0rem;
+        width: 100%;
+        grid-template-columns: auto;
+        gap: 1rem;
+    }
+
+    .img-Designers {
+        width: 100%
+    }
+
+    .img-Designers2 {
+        width: 100%;
+    }
+
+    .img-Designers-middle {
+        width: 100%;
+        /* height: 100vh; */
+    }
+
+    .form-div {
+        gap: 1rem;
+        display: grid;
+        grid-template-columns: auto;
+    }
+
+    .social-info {
+        display: block;
+        /* justify-content: space-between; */
+    }
+
+    .footer {
+        width: 100%;
+        padding: 1rem;
+    }
+
+    .big-img {
+        width: 100%
+    }
+
+    .logos-div-1 {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 1rem;
+    }
+
+    .captiure1 {
+        display: none;
+        position: unset;
+        width: 100%;
+        padding-right: 1rem;
+    }
+
+    .design-caption {
+        padding: 2rem;
+        /* width: 84%; */
+    }
+
+    .middle-div {
+        padding: 10px;
+    }
+
+    .men-img {
+        display: block;
+        padding: 10px;
+    }
+
+    .logo-svg {
+        width: 3rem;
+        padding: 1rem 1rem;
+    }
+
+    .logo-svg2 {
+        width: 6rem;
+        padding: 1rem 1rem;
+    }
+
+    .logos-div-1 {
+        display: block;
+    }
+
+    .logos-div-2 {
+        display: block;
+    }
+
+    .padding-blue-stone {
+        margin: 0;
+    }
+
+    .blue-stone {
+        padding: 0;
+    }
+
+    .ifo-with-big-photo {
+        width: 100%;
+        padding: 0rem;
+        margin-bottom: 3rem;
+    }
+
+    .pra-with-namber {
+        display: block;
+    }
+
+    .text-with-form {
+        padding: 2rem;
+    }
+
+    select {
+        padding: 10px 100px 10px 0px;
+    }
+
+    input {
+        width: 100%;
+        padding: 0px;
+        border: none;
+        border-bottom: 1px solid;
+    }
+
+    textarea {
+        padding: 1rem;
+
+    }
+
+    .info-footer-text {
+        padding-right: 0rem;
+    }
+
+    .last-pra-in-footer {
+        display: block;
+    }
+
+    .middle-pra-in-footer {
+        padding-right: 0rem;
+    }
+
+    .div-text-form {
+        padding-right: 0rem;
+    }
+
+    .brand-text {
+        display: block;
+    }
+
+    .icon-padding1 {
+        width: 11rem;
+    }
+
+    .last-text-in-footer {
+        display: block;
+    }
+
+    .social-icon {
+        display: block;
+    }
+
+    .design-div {
+        padding: 10px;
+
+    }
+
+    hr {
+        width: 100%;
+    }
+
+  
+    .logo-img {
+    width: 12rem;
+    }
+    .transation-box3 {
+        display: none;
+    }
+}
+
+/* //////////////////////// */
